@@ -1,0 +1,78 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.color1{
+  border: 1px solid pink;
+
+}
+.size_title{
+  font-size: 250%;
+}
+
+
+.margen_izq{
+  margin-left: 4.16666%;
+}
+
+.margen_top_title{
+  margin-top: 30px;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom: 30.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    max-height: 300px;
+    width:100%;
+    position:absolute;
+}
+
+.button-ver{
+  float: right;
+  width: 90px;
+  background-color: orange;
+  border-color: orange;
+}
+
+.back-orange{
+  background-color: orange;
+  border-color: orange;
+}
+
+.back-orange2{
+  background-color: #FF4500;
+  border-color: #FF4500;
+}
+
+
+.mouse-over:active, .mouse-over:focus, .mouse-over:hover{
+  background-color: #FF4500;
+  border-color: #FF4500;
+}
+
+.flota-derecha{
+  float:right;
+}
+
+.tam{
+  font-size: 80px;
+    text-align: center;
+}
+
+.tam2{
+  font-size: 25px;
+  text-align: center;
+}
+
+
+.partido_detalle{
+  padding: 0px;
+}

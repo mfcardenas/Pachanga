@@ -1,0 +1,8 @@
+@import "listaPartidos.css";
+
+.crearpartido input:focus {
+  border-color: orange;
+  outline: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
